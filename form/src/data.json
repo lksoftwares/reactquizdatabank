@@ -1,0 +1,50 @@
+{"topic": [
+  {
+    "topicid": 1,
+"label" : "Html",
+"value": "Hyper Text Markup Language"
+  },
+  {
+    "topicid": 2,
+"label" : "Css",
+"value": "Cascading Style Sheets "
+
+  },
+  {
+    "topicid": 3,
+"label" : "Javascript",
+"value": "Programming Language "
+
+  },
+  {
+    "topicid":4  ,
+"label" : "React",
+"value": "Library for User Interfaces "
+
+  },
+  {
+    "topicid": 5,
+"label" : "SQL",
+"value": "Access and Manipulate Data in Databases"
+
+  }
+],
+
+"type":[
+  {
+    "typeid": 1,
+"label" : "Multiple Choice Questions",
+"value": "mcq"
+  },
+  {
+    "typeid": 1,
+"label" : "Fill in the blanks",
+"value": "fillups"
+  }, {
+    "typeid": 1,
+"label" : "One Word",
+"value": "oword"
+  }
+]
+
+}
